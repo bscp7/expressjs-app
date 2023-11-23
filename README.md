@@ -1,0 +1,1 @@
+Simple ExpressJS app taken from https://github.com/bezkoder/node-express-mongodb
